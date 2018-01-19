@@ -95,7 +95,9 @@ public class Filtre {
 		  }
 	}
 
-	
+	public void main(String[] args) {
+		
+	}
 	
 	
 	
