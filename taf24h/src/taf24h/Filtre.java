@@ -120,6 +120,9 @@ public class Filtre {
 		  BufferedImage resultat = convolution2.filter(resultatIntermediaire, null);
 	}
 	
+	public void test() {
+		
+	}
     
 >>>>>>> master
 }
