@@ -39,7 +39,7 @@ public class Filtre {
 	}
 	
 	public void test() {
-		
+		System.out.println("bonjour");
 	}
     
 }
