@@ -95,14 +95,12 @@ public class Filtre {
 		  }
 	}
 
-<<<<<<< HEAD
 	public void main(String[] args) {
 		
 	}
 	
 	
 	
-=======
 	public void lissage() {
 		  Kernel kernel1 = new Kernel(5, 5, new float[]{ 4/1344f, 18/1344f, 19/1344f, 18/1344f, 4/1344f, 18/1344f, 80/1344f, 132/1344f, 80/1344f, 18/1344f, 29/1344f, 132/1344f, 218/1344f, 132/1344f, 29/1344f, 18/1344f, 80/1344f, 132/1344f, 80/1344f, 18/1344f, 4/1344f, 18/1344f, 29/1344f, 18/1344f, 4/1344f});
 		  ConvolveOp convolution = new ConvolveOp(kernel1);
@@ -121,8 +119,7 @@ public class Filtre {
 	}
 	
 	public void test() {
-		
+		System.out.println("Hello");
 	}
     
->>>>>>> master
 }
